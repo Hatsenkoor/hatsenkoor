@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**Hatsenkoor/hatsenkoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Run! Hatsenkoor, Run!
+Senior Web and Mobile developer who has +8 years experience. Experience in Leading a team of front-end, back-end and webgl developers.
+Advanced knowledge of multiple programming languages, frameworks and extensive familiarity with several database structures.
+## Fullstack Mobile & Web & WebGL Developer
+1. Web
+  - React / Angular / Vue /Svelte / Next / Typescript
+  * Node.js / Express.js / PHP
+  * Ruby on Rails / Java Spring Boot / ASP.NET MVC
+  * PostgreSQL / MySQL / MongoDB
+  * HTML5 /Bootstrap /CSS3 / SCSS / TailwindCSS
+  + AWS / Digital Ocean / Nginx / Heroku / Netlify
+2. Mobile
+  - Objective-C / Swift / Android / Kotlin
+  * Ionic / React Native / Flutter
+  * C# / XHTML
+  + Java / Qt / Qml
