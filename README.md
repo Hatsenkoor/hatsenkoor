@@ -96,5 +96,38 @@ Advanced knowledge of multiple programming languages, frameworks and extensive f
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
             </td>
         </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Laravel</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Codeigniter</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Yii</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg">
+            <td width="80px" align="center">
+            <span><strong>Mongodb</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Postgresql</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Mysql</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Graphql</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Go</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+            </td>
+        </tr>
     </tbody>
 </table>
