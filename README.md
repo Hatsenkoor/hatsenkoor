@@ -1,4 +1,4 @@
-## Run! Hatsenkoor, Run!
+## Working from home
 Senior Web and Mobile developer who has +8 years experience. Experience in Leading a team of front-end, back-end and webgl developers.
 Advanced knowledge of multiple programming languages, frameworks and extensive familiarity with several database structures.
 ## Fullstack Mobile & Web & WebGL Developer
@@ -35,14 +35,11 @@ Advanced knowledge of multiple programming languages, frameworks and extensive f
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hatsenkoor&theme=radical&background=000000)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatsenkoor&show_icons=true&theme=radical&layout=compact)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatsenkoor&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Skills
+### 🧰 Tools
 <table width="320px">
     <tbody>
         <tr valign="top">
